@@ -8,4 +8,4 @@ streamlit.text('綾 Kale, Spinach & Rocket Smoothie')
 streamlit.text('塞 Hard-Boiled Free Range Egg')
 streamlit.text('陋 Avacado Toast')
 
-streamlit.header('Build Your Own Smoothie')✅
+streamlit.header('Build Your Own Smoothie'✅)
